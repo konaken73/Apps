@@ -1,0 +1,28 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "\"cette application renseigne sur les informations d'un pays\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenneth ze ondoua kona",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1",
+    "formidable": "1.x"
+  },
+  "devDependencies": {
+    "@metahub/karma-jasmine-jquery": "^2.0.1",
+    "jasmine-core": "^3.4.0",
+    "jasmine-jquery": "^2.1.1",
+    "karma": "^4.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^2.0.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7"
+  }
+}
