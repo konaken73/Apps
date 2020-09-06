@@ -1,2 +1,2 @@
 # Apps
-application web permettant de renseignant sur les informations d'un pays 
+application web renseignant sur les informations d'un pays ( code telephonique,population,etc ..)
